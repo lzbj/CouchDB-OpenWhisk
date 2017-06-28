@@ -1,0 +1,12 @@
+{
+  "name": "CouchDB-OpenWhisk",
+  "version": "0.0.1",
+  "dependencies": {
+    "nano":"^6.3.0",
+    "request": "~2.81.0"
+  }
+  "engines": {
+    "node":"6.2.2",
+    "npm":"3.10.3"
+  }
+}
